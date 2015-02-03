@@ -1,5 +1,6 @@
 /**
  * <h1>Design Pattern - Abstract Factory Pattern</h1>
+ *
  * <p>
  * Abstract Factory patterns work around a super-factory which creates other factories. This factory
  * is also called as factory of factories. This type of design pattern comes under creational
@@ -13,6 +14,7 @@
  * </p>
  *
  * <h2>Implementation</h2>
+ *
  * <p>
  * We are going to create a Shape and Color interfaces and concrete classes implementing these
  * interfaces. We create an abstract factory class AbstractFactory as next step. Factory classes
@@ -26,6 +28,7 @@
  * type of object it needs. It also passes information (RED / GREEN / BLUE for Color) to
  * AbstractFactory to get the type of object it needs.
  * </p>
+ *
  * <img src="./abstractfactory_pattern_uml_diagram.jpg" alt="Abstract Factory Pattern UML Diagram"
  * width="100%">
  */

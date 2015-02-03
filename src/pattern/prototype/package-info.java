@@ -1,5 +1,6 @@
 /**
  * <h1>Design Patterns - Prototype Pattern</h1>
+ *
  * <p>
  * Prototype pattern refers to creating duplicate object while keeping performance in mind. This
  * type of design pattern comes under creational pattern as this pattern provides one of the best
@@ -24,6 +25,7 @@
  * <p>
  * PrototypPatternDemo, our demo class will use ShapeCache class to get a Shape object.
  * </p>
+ *
  * <img src="./prototype_pattern_uml_diagram.jpg" alt="Prototype Pattern UML Diagram" width="100%">
  */
 package pattern.prototype;

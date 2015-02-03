@@ -1,5 +1,6 @@
 /**
  * <h1>Design Pattern - Singleton Pattern</h1>
+ *
  * <p>
  * Singleton pattern is one of the simplest design patterns in Java. This type of design pattern
  * comes under creational pattern as this pattern provides one of the best ways to create an object.
@@ -12,6 +13,7 @@
  * </p>
  *
  * <h2>Implementation</h2>
+ * 
  * <p>
  * We're going to create a SingleObject class. SingleObject class have its constructor as private
  * and have a static instance of itself.
@@ -21,6 +23,7 @@
  * SingleObject class provides a static method to get its static instance to outside world.
  * SingletonPatternDemo, our demo class will use SingleObject class to get a SingleObject object.
  * </p>
+ *
  * <img src="./singleton_pattern_uml_diagram.jpg" alt="Singleton Pattern UML Diagram" width="100%">
  */
 package pattern.singleton;

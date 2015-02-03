@@ -1,5 +1,6 @@
 /**
  * <h1>Design Patterns - Builder Pattern</h1>
+ *
  * <p>
  * Builder pattern builds a complex object using simple objects and using a step by step approach.
  * This type of design pattern comes under creational pattern as this pattern provides one of the
@@ -31,6 +32,7 @@
  * of Meal objects by combining Item. BuilderPatternDemo, our demo class will use MealBuilder to
  * build a Meal.
  * </p>
+ *
  * <img src="./builder_pattern_uml_diagram.jpg" alt="Builder Pattern UML Diagram" width="100%">
  */
 package pattern.builder;
