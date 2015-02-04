@@ -14,14 +14,14 @@ public class OrCriteria implements Criteria {
 
   @Override
   public List<Person> meetCriteria(List<Person> persons) {
-    List<Person> firstCriteriaItems = criteria.meetCriteria(persons);
-    List<Person> otherCriteriaItems = otherCriteria.meetCriteria(persons);
+    List<Person> firstCriteriaPersons = criteria.meetCriteria(persons);
+    List<Person> otherCriteriaPersons = otherCriteria.meetCriteria(persons);
 
-    for (Person person : otherCriteriaItems) {
-      if (!firstCriteriaItems.contains(person)) {
-        firstCriteriaItems.add(person);
+    for (Person person : otherCriteriaPersons) {
+      if (!firstCriteriaPersons.contains(person)) {
+        firstCriteriaPersons.add(person);
       }
     }
-    return firstCriteriaItems;
+    return firstCriteriaPersons;
   }
 }
