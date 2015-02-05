@@ -7,15 +7,12 @@ public class CriteriaPatternDemo {
   public static void main(String[] args) {
     List<Person> persons = new ArrayList<Person>();
 
-    persons
-    .add(new Person("Robert", GenderType.MALE.getType(), MaritalStatusType.SINGLE.getType()));
-    persons.add(new Person("John", GenderType.MALE.getType(), MaritalStatusType.MARRIED.getType()));
-    persons.add(new Person("Laura", GenderType.FEMALE.getType(), MaritalStatusType.MARRIED
-        .getType()));
-    persons
-        .add(new Person("Diana", GenderType.FEMALE.getType(), MaritalStatusType.SINGLE.getType()));
-    persons.add(new Person("Mike", GenderType.MALE.getType(), MaritalStatusType.SINGLE.getType()));
-    persons.add(new Person("Bobby", GenderType.MALE.getType(), MaritalStatusType.SINGLE.getType()));
+    persons.add(new Person("Robert", GenderType.MALE, MaritalStatusType.SINGLE));
+    persons.add(new Person("John", GenderType.MALE, MaritalStatusType.MARRIED));
+    persons.add(new Person("Laura", GenderType.FEMALE, MaritalStatusType.MARRIED));
+    persons.add(new Person("Diana", GenderType.FEMALE, MaritalStatusType.SINGLE));
+    persons.add(new Person("Mike", GenderType.MALE, MaritalStatusType.SINGLE));
+    persons.add(new Person("Bobby", GenderType.MALE, MaritalStatusType.SINGLE));
 
     Criteria male = new CriteriaMale();
     Criteria female = new CriteriaFemale();

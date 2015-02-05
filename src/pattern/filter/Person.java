@@ -3,10 +3,10 @@ package pattern.filter;
 public class Person {
 
   private String name;
-  private String gender;
-  private String maritalStatus;
+  private GenderType gender;
+  private MaritalStatusType maritalStatus;
 
-  public Person(String name, String gender, String maritalStatus) {
+  public Person(String name, GenderType gender, MaritalStatusType maritalStatus) {
     this.name = name;
     this.gender = gender;
     this.maritalStatus = maritalStatus;
@@ -16,11 +16,11 @@ public class Person {
     return name;
   }
 
-  public String getGender() {
+  public GenderType getGender() {
     return gender;
   }
 
-  public String getMaritalStatus() {
+  public MaritalStatusType getMaritalStatus() {
     return maritalStatus;
   }
 }

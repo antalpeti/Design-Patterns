@@ -10,7 +10,7 @@ public class CriteriaMale implements Criteria {
     List<Person> malePersons = new ArrayList<Person>();
 
     for (Person person : persons) {
-      if (person.getGender().equalsIgnoreCase(GenderType.MALE.getType())) {
+      if (person.getGender().equals(GenderType.MALE)) {
         malePersons.add(person);
       }
     }

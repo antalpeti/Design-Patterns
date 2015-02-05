@@ -10,7 +10,7 @@ public class CriteriaMarried implements Criteria {
     List<Person> singlePersons = new ArrayList<Person>();
 
     for (Person person : persons) {
-      if (person.getMaritalStatus().equalsIgnoreCase(MaritalStatusType.MARRIED.getType())) {
+      if (person.getMaritalStatus().equals(MaritalStatusType.MARRIED)) {
         singlePersons.add(person);
       }
     }
