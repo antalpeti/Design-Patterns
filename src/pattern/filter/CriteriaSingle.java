@@ -10,7 +10,7 @@ public class CriteriaSingle implements Criteria {
     List<Person> singlePersons = new ArrayList<Person>();
 
     for (Person person : persons) {
-      if (person.getMaritalStatus().equalsIgnoreCase("SINGLE")) {
+      if (person.getMaritalStatus().equalsIgnoreCase(MaritalStatusType.SINGLE.getType())) {
         singlePersons.add(person);
       }
     }
