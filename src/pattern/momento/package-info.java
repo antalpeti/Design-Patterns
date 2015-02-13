@@ -19,6 +19,6 @@
  * of object states.
  * </p>
  *
- * <img src="memento_pattern_uml_diagram.jpg" alt="Memento Pattern UML Diagram" width="100%">
+ * <img src="./memento_pattern_uml_diagram.jpg" alt="Memento Pattern UML Diagram" width="100%">
  */
 package pattern.momento;

@@ -23,6 +23,6 @@
  * as it needs.
  * </p>
  *
- * <img src="proxy_pattern_uml_diagram.jpg" alt="Proxy Pattern UML Diagram" width="100%">
+ * <img src="./proxy_pattern_uml_diagram.jpg" alt="Proxy Pattern UML Diagram" width="100%">
  */
 package pattern.proxy;

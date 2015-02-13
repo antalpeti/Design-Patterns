@@ -24,6 +24,6 @@
  * FacadePatternDemo, our demo class, will use ShapeMaker class to show the results.
  * </p>
  *
- * <img src="facade_pattern_uml_diagram.jpg" alt="Facade Pattern UML Diagram" width="100%">
+ * <img src="./facade_pattern_uml_diagram.jpg" alt="Facade Pattern UML Diagram" width="100%">
  */
 package pattern.facade;

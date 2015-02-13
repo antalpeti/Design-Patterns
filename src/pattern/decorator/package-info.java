@@ -33,6 +33,6 @@
  * DecoratorPatternDemo, our demo class will use RedShapeDecorator to decorate Shape objects.
  * </p>
  *
- * <img src="decorator_pattern_uml_diagram.jpg" alt="Decorator Pattern UML Diagram" width="100%">
+ * <img src="./decorator_pattern_uml_diagram.jpg" alt="Decorator Pattern UML Diagram" width="100%">
  */
 package pattern.decorator;
