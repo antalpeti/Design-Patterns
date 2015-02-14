@@ -21,8 +21,9 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We have a class Employee which acts as composite pattern actor class. CompositePatternDemo, our
- * demo class will use Employee class to add department level hierarchy and print all employees.
+ * We have a class <i>Employee</i> which acts as composite pattern actor class.
+ * <i>CompositePatternDemo</i>, our demo class will use <i>Employee</i> class to add department
+ * level hierarchy and print all employees.
  * </p>
  *
  * <img src="./composite_pattern_uml_diagram.jpg" alt="Composite Pattern UML Diagram" width="100%">

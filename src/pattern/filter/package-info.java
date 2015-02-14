@@ -11,9 +11,10 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We're going to create a Person object, Criteria interface and concrete classes implementing this
- * interface to filter list of Person objects. CriteriaPatternDemo, our demo class uses Criteria
- * objects to filter List of Person objects based on various criteria and their combinations.
+ * We're going to create a <i>Person</i> object, <i>Criteria</i> interface and concrete classes
+ * implementing this interface to filter list of <i>Person</i> objects. <i>CriteriaPatternDemo</i>,
+ * our demo class uses <i>Criteria</i> objects to filter List of <i>Person</i> objects based on
+ * various criteria and their combinations.
  * </p>
  *
  * <img src="./filter_pattern_uml_diagram.jpg" alt="Filter Pattern UML Diagram" width="100%">

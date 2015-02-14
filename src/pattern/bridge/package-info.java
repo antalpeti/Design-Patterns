@@ -22,10 +22,10 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We have a DrawAPI interface which is acting as a bridge implementer and concrete classes
- * RedCircle, GreenCircle implementing the DrawAPI interface. Shape is an abstract class and will
- * use object of DrawAPI. BridgePatternDemo, our demo class will use Shape class to draw different
- * colored circle.
+ * We have a <i>DrawAPI</i> interface which is acting as a bridge implementer and concrete classes
+ * <i>RedCircle</i>, <i>GreenCircle</i> implementing the <i>DrawAPI</i> interface. <i>Shape</i> is
+ * an abstract class and will use object of <i>DrawAPI</i>. <i>BridgePatternDemo</i>, our demo class
+ * will use <i>Shape</i> class to draw different colored circle.
  * </p>
  *
  * <img src="./bridge_pattern_uml_diagram.jpg" alt="Bridge Pattern UML Diagram" width="100%">

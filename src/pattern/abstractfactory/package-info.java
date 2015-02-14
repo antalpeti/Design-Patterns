@@ -16,17 +16,19 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We are going to create a Shape and Color interfaces and concrete classes implementing these
- * interfaces. We create an abstract factory class AbstractFactory as next step. Factory classes
- * ShapeFactory and ColorFactory are defined where each factory extends AbstractFactory. A factory
- * creator/generator class FactoryProducer is created.
+ * We are going to create a <i>Shape</i> and <i>Color</i> interfaces and concrete classes
+ * implementing these interfaces. We create an abstract factory class <i>AbstractFactory</i> as next
+ * step. Factory classes <i>ShapeFactory</i> and <i>ColorFactory</i> are defined where each factory
+ * extends <i>AbstractFactory</i>. A factory creator/generator class <i>FactoryProducer</i> is
+ * created.
  * </p>
  *
  * <p>
- * AbstractFactoryPatternDemo, our demo class uses FactoryProducer to get a AbstractFactory object.
- * It will pass information (CIRCLE / RECTANGLE / SQUARE for Shape) to AbstractFactory to get the
- * type of object it needs. It also passes information (RED / GREEN / BLUE for Color) to
- * AbstractFactory to get the type of object it needs.
+ * <i>AbstractFactoryPatternDemo</i>, our demo class uses <i>FactoryProducer</i> to get a
+ * <i>AbstractFactory</i> object. It will pass information (<i>CIRCLE / RECTANGLE / SQUARE</i> for
+ * <i>Shape</i>) to <i>AbstractFactory</i> to get the type of object it needs. It also passes
+ * information (<i>RED / GREEN / BLUE</i> for <i>Color</i>) to <i>AbstractFactory</i> to get the
+ * type of object it needs.
  * </p>
  *
  * <img src="./abstractfactory_pattern_uml_diagram.jpg" alt="Abstract Factory Pattern UML Diagram"

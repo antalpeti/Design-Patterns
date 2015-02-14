@@ -14,14 +14,14 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We're going to create a Iterator interface which narrates navigation method and a Container
- * interface which retruns the iterator. Concrete classes implementing the Container interface will
- * be responsible to implement Iterator interface and use it.
+ * We're going to create a <i>Iterator</i> interface which narrates navigation method and a
+ * <i>Container</i> interface which retruns the iterator . Concrete classes implementing the
+ * <i>Container</i> interface will be responsible to implement <i>Iterator</i> interface and use it
  * </p>
  *
  * <p>
- * IteratorPatternDemo, our demo class will use NamesRepository, a concrete class implementation to
- * print a Names stored as a collection in NamesRepository.
+ * <i>IteratorPatternDemo</i>, our demo class will use <i>NamesRepository</i>, a concrete class
+ * implementation to print a <i>Names</i> stored as a collection in <i>NamesRepository</i>.
  * </p>
  *
  * <img src="./iterator_pattern_uml_diagram.jpg" alt="Iterator Pattern UML Diagram" width="100%">

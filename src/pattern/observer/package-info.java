@@ -12,12 +12,13 @@
  * <p>
  * Observer pattern uses three actor classes. Subject, Observer and Client. Subject is an object
  * having methods to attach and detach observers to a client object. We have created an abstract
- * class Observer and a concrete class Subject that is extending class Observer.
+ * class <i>Observer</i> and a concrete class <i>Subject</i> that is extending class
+ * <i>Observer</i>.
  * </p>
  *
  * <p>
- * ObserverPatternDemo, our demo class, will use Subject and concrete class object to show observer
- * pattern in action.
+ * <i>ObserverPatternDemo</i>, our demo class, will use <i>Subject</i> and concrete class object to
+ * show observer pattern in action.
  * </p>
  *
  * <img src="./observer_pattern_uml_diagram.jpg" alt="Observer Pattern UML Diagram" width="100%">

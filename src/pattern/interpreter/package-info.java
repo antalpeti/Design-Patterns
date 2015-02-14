@@ -11,14 +11,15 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We are going to create an interface Expression and concrete classes implementing the Expression
- * interface. A class TerminalExpression is defined which acts as a main interpreter of context in
- * question. Other classes OrExpression, AndExpression are used to create combinational expressions.
+ * We are going to create an interface <i>Expression</i> and concrete classes implementing the
+ * <i>Expression</i> interface. A class <i>TerminalExpression</i> is defined which acts as a main
+ * interpreter of context in question. Other classes <i>OrExpression</i>, <i>AndExpression</i> are
+ * used to create combinational expressions.
  * </p>
  *
  * <p>
- * InterpreterPatternDemo, our demo class, will use Expression class to create rules and demonstrate
- * parsing of expressions.
+ * <i>InterpreterPatternDemo</i>, our demo class, will use <i>Expression</i> class to create rules
+ * and demonstrate parsing of expressions.
  * </p>
  *
  * <img src="./interpreter_pattern_uml_diagram.jpg" alt="Interpreter Pattern UML Diagram"

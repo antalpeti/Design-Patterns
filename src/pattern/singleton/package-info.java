@@ -13,15 +13,16 @@
  * </p>
  *
  * <h2>Implementation</h2>
- * 
+ *
  * <p>
- * We're going to create a SingleObject class. SingleObject class have its constructor as private
- * and have a static instance of itself.
+ * We're going to create a <i>SingleObject</i> class. <i>SingleObject</i> class have its constructor
+ * as private and have a static instance of itself.
  * </p>
  *
  * <p>
- * SingleObject class provides a static method to get its static instance to outside world.
- * SingletonPatternDemo, our demo class will use SingleObject class to get a SingleObject object.
+ * <i>SingleObject</i> class provides a static method to get its static instance to outside world.
+ * <i>SingletonPatternDemo</i>, our demo class will use <i>SingleObject</i> class to get a
+ * <i>SingleObject</i> object.
  * </p>
  *
  * <img src="./singleton_pattern_uml_diagram.jpg" alt="Singleton Pattern UML Diagram" width="100%">

@@ -20,17 +20,18 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We're going to create a Shape interface and concrete classes implementing the Shape interface. We
- * will then create an abstract decorator class ShapeDecorator implementing the Shape interface and
- * having Shape object as its instance variable.
+ * We're going to create a <i>Shape</i> interface and concrete classes implementing the <i>Shape</i>
+ * interface. We will then create an abstract decorator class <i>ShapeDecorator</i> implementing the
+ * <i>Shape</i> interface and having <i>Shape</i> object as its instance variable.
  * </p>
  *
  * <p>
- * RedShapeDecorator is concrete class implementing ShapeDecorator.
+ * <i>RedShapeDecorator</i> is concrete class implementing <i>ShapeDecorator</i>.
  * </p>
  *
  * <p>
- * DecoratorPatternDemo, our demo class will use RedShapeDecorator to decorate Shape objects.
+ * <i>DecoratorPatternDemo</i>, our demo class will use <i>RedShapeDecorator</i> to decorate
+ * <i>Shape</i> objects.
  * </p>
  *
  * <img src="./decorator_pattern_uml_diagram.jpg" alt="Decorator Pattern UML Diagram" width="100%">

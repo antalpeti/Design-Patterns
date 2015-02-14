@@ -15,9 +15,10 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We have created an abstract class AbstractLogger with a level of logging. Then we have created
- * three types of loggers extending the AbstractLogger. Each logger checks the level of message to
- * its level and print accordingly otherwise does not print and pass the message to its next logger.
+ * We have created an abstract class <i>AbstractLogger</i> with a level of logging. Then we have
+ * created three types of loggers extending the <i>AbstractLogger</i>. Each logger checks the level
+ * of message to its level and print accordingly otherwise does not print and pass the message to
+ * its next logger.
  * </p>
  *
  * <img src="./chain_pattern_uml_diagram.jpg" alt="Chain Pattern UML Diagram" width="100%">

@@ -13,12 +13,13 @@
  * <p>
  * We are demonstrating mediator pattern by example of a chat room where multiple users can send
  * message to chat room and it is the responsibility of chat room to show the messages to all users.
- * We have created two classes ChatRoom and User. User objects will use ChatRoom method to share
- * their messages.
+ * We have created two classes <i>ChatRoom</i> and <i>User</i>. <i>User</i> objects will use
+ * <i>ChatRoom</i> method to share their messages.
  * </p>
  *
  * <p>
- * MediatorPatternDemo, our demo class, will use User objects to show communication between them.
+ * <i>MediatorPatternDemo</i>, our demo class, will use <i>User</i> objects to show communication
+ * between them.
  * </p>
  *
  * <img src="./mediator_pattern_uml_diagram.jpg" alt="Mediator Pattern UML Diagram" width="100%">

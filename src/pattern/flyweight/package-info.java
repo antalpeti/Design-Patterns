@@ -18,21 +18,22 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We are going to create a Shape interface and concrete class Circle implementing the Shape
- * interface. A factory class ShapeFactory is defined as a next step.
+ * We are going to create a <i>Shape</i> interface and concrete class <i>Circle</i> implementing the
+ * <i>Shape</i> interface. A factory class <i>ShapeFactory</i> is defined as a next step.
  * </p>
  *
  * <p>
- * ShapeFactory has a HashMap of Circle having key as color of the Circle object. Whenever a request
- * comes to create a circle of particular color to ShapeFactory, it checks the circle object in its
- * HashMap, if object of Circle found, that object is returned otherwise a new object is created,
- * stored in hashmap for future use, and returned to client.
+ * <i>ShapeFactory</i> has a <i>HashMap</i> of <i>Circle</i> having key as color of the
+ * <i>Circle</i> object. Whenever a request comes to create a circle of particular color to
+ * <i>ShapeFactory</i>, it checks the circle object in its <i>HashMap</i>, if object of
+ * <i>Circle</i> found, that object is returned otherwise a new object is created, stored in hashmap
+ * for future use, and returned to client.
  * </p>
  *
  * <p>
- * FlyWeightPatternDemo, our demo class, will use ShapeFactory to get a Shape object. It will pass
- * information (red / green / blue/ black / white) to ShapeFactory to get the circle of desired
- * color it needs.
+ * <i>FlyWeightPatternDemo</i>, our demo class, will use <i>ShapeFactory</i> to get a <i>Shape</i>
+ * object. It will pass information (<i>red / green / blue/ black / white</i>) to
+ * <i>ShapeFactory</i> to get the circle of desired color it needs.
  * </p>
  *
  * <img src="./flyweight_pattern_uml_diagram.jpg" alt="Flyweight Pattern UML Diagram" width="100%">

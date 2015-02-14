@@ -21,16 +21,16 @@
  * </p>
  *
  * <p>
- * We are going to create an Item interface representing food items such as burgers and cold drinks
- * and concrete classes implementing the Item interface and a Packing interface representing
- * packaging of food items and concrete classes implementing the Packing interface as burger would
- * be packed in wrapper and cold drink would be packed as bottle.
+ * We are going to create an <i>Item</i> interface representing food items such as burgers and cold
+ * drinks and concrete classes implementing the <i>Item</i> interface and a <i>Packing</i> interface
+ * representing packaging of food items and concrete classes implementing the <i>Packing</i>
+ * interface as burger would be packed in wrapper and cold drink would be packed as bottle.
  * </p>
  *
  * <p>
- * We then create a Meal class having ArrayList of Item and a MealBuilder to build different types
- * of Meal objects by combining Item. BuilderPatternDemo, our demo class will use MealBuilder to
- * build a Meal.
+ * We then create a <i>Meal</i> class having <i>ArrayList</i> of <i>Item</i> and a
+ * <i>MealBuilder</i> to build different types of <i>Meal</i> objects by combining <i>Item</i>.
+ * <i>BuilderPatternDemo</i>, our demo class will use <i>MealBuilder</i> to build a <i>Meal</i>.
  * </p>
  *
  * <img src="./builder_pattern_uml_diagram.jpg" alt="Builder Pattern UML Diagram" width="100%">

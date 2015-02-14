@@ -17,13 +17,14 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We're going to create an abstract class Shape and concrete classes extending the Shape class. A
- * class ShapeCache is defined as a next step which stores shape objects in a Hashtable and returns
- * their clone when requested.
+ * We're going to create an abstract class <i>Shape</i> and concrete classes extending the
+ * <i>Shape</i> class. A class <i>ShapeCache</i> is defined as a next step which stores shape
+ * objects in a <i>Hashtable</i> and returns their clone when requested.
  * </p>
  *
  * <p>
- * PrototypPatternDemo, our demo class will use ShapeCache class to get a Shape object.
+ * <i>PrototypPatternDemo</i>, our demo class will use <i>ShapeCache</i> class to get a <i>Shape</i>
+ * object.
  * </p>
  *
  * <img src="./prototype_pattern_uml_diagram.jpg" alt="Prototype Pattern UML Diagram" width="100%">

@@ -23,25 +23,25 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We have a MediaPlayer interface and a concrete class AudioPlayer implementing the MediaPlayer
- * interface. AudioPlayer can play mp3 format audio files by default.
+ * We have a <i>MediaPlayer</i> interface and a concrete class <i>AudioPlayer</i> implementing the
+ * <i>MediaPlayer</i> interface. <i>AudioPlayer</i> can play mp3 format audio files by default.
  * </p>
  *
  * <p>
- * We are having another interface AdvancedMediaPlayer and concrete classes implementing the
- * AdvancedMediaPlayer interface. These classes can play vlc and mp4 format files.
+ * We are having another interface <i>AdvancedMediaPlayer</i> and concrete classes implementing the
+ * <i>AdvancedMediaPlayer</i> interface. These classes can play vlc and mp4 format files.
  * </p>
  *
  * <p>
- * We want to make AudioPlayer to play other formats as well. To attain this, we have created an
- * adapter class MediaAdapter which implements the MediaPlayer interface and uses
- * AdvancedMediaPlayer objects to play the required format.
+ * We want to make <i>AudioPlayer</i> to play other formats as well. To attain this, we have created
+ * an adapter class <i>MediaAdapter</i> which implements the <i>MediaPlayer</i> interface and uses
+ * <i>AdvancedMediaPlayer</i> objects to play the required format.
  * </p>
  *
  * <p>
- * AudioPlayer uses the adapter class MediaAdapter passing it the desired audio type without knowing
- * the actual class which can play the desired format. AdapterPatternDemo, our demo class will use
- * AudioPlayer class to play various formats.
+ * <i>AudioPlayer</i> uses the adapter class <i>MediaAdapter</i> passing it the desired audio type
+ * without knowing the actual class which can play the desired format. <i>AdapterPatternDemo</i>,
+ * our demo class will use <i>AudioPlayer</i> class to play various formats.
  * </p>
  *
  * <img src="./adapter_pattern_uml_diagram.jpg" alt="Adapter Pattern UML Diagram.jpg" width="100%">

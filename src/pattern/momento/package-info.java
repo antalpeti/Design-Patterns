@@ -11,12 +11,13 @@
  * <p>
  * Memento pattern uses three actor classes. Memento contains state of an object to be restored.
  * Originator creates and stores states in Memento objects and Caretaker object is responsible to
- * restore object state from Memento. We have created classes Memento, Originator and CareTaker.
+ * restore object state from Memento. We have created classes <i>Memento</i>, <i>Originator</i> and
+ * <i>CareTaker</i>.
  * </p>
  *
  * <p>
- * MementoPatternDemo, our demo class, will use CareTaker and Originator objects to show restoration
- * of object states.
+ * <i>MementoPatternDemo</i>, our demo class, will use <i>CareTaker</i> and <i>Originator</i>
+ * objects to show restoration of object states.
  * </p>
  *
  * <img src="./memento_pattern_uml_diagram.jpg" alt="Memento Pattern UML Diagram" width="100%">

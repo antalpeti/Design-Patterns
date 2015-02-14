@@ -14,13 +14,14 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We are going to create an Image interface and concrete classes implementing the Image interface.
- * ProxyImage is a a proxy class to reduce memory footprint of RealImage object loading.
+ * We are going to create an <i>Image</i> interface and concrete classes implementing the
+ * <i>Image</i> interface. <i>ProxyImage</i> is a a proxy class to reduce memory footprint of
+ * <i>RealImage</i> object loading.
  * </p>
  *
  * <p>
- * ProxyPatternDemo, our demo class, will use ProxyImage to get an Image object to load and display
- * as it needs.
+ * <i>ProxyPatternDemo</i>, our demo class, will use <i>ProxyImage</i> to get an <i>Image</i> object
+ * to load and display as it needs.
  * </p>
  *
  * <img src="./proxy_pattern_uml_diagram.jpg" alt="Proxy Pattern UML Diagram" width="100%">

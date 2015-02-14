@@ -15,13 +15,13 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We are going to create a Shape interface and concrete classes implementing the Shape interface. A
- * facade class ShapeMaker is defined as a next step.
+ * We are going to create a <i>Shape</i> interface and concrete classes implementing the
+ * <i>Shape</i> interface. A facade class <i>ShapeMaker</i> is defined as a next step.
  * </p>
  *
  * <p>
- * ShapeMaker class uses the concrete classes to delegate user calls to these classes.
- * FacadePatternDemo, our demo class, will use ShapeMaker class to show the results.
+ * <i>ShapeMaker</i> class uses the concrete classes to delegate user calls to these classes.
+ * <i>FacadePatternDemo</i>, our demo class, will use <i>ShapeMaker</i> class to show the results.
  * </p>
  *
  * <img src="./facade_pattern_uml_diagram.jpg" alt="Facade Pattern UML Diagram" width="100%">

@@ -14,10 +14,14 @@
  * <h2>Implementation</h2>
  *
  * <p>
- * We're going to create a Shape interface and concrete classes implementing the Shape interface. A
- * factory class ShapeFactory is defined as a next step. FactoryPatternDemo, our demo class will use
- * ShapeFactory to get a Shape object. It will pass information (CIRCLE / RECTANGLE / SQUARE) to
- * ShapeFactory to get the type of object it needs.
+ * We're going to create a <i>Shape</i> interface and concrete classes implementing the <i>Shape</i>
+ * interface. A factory class <i>ShapeFactory</i> is defined as a next step.
+ * </p>
+ *
+ * <p>
+ * <i>FactoryPatternDemo</i>, our demo class will use <i>ShapeFactory</i> to get a <i>Shape</i>
+ * object. It will pass information (<i>CIRCLE / RECTANGLE / SQUARE</i>) to <i>ShapeFactory</i> to
+ * get the type of object it needs.
  * </p>
  *
  * <img src="./factory_pattern_uml_diagram.jpg" alt="Factory Pattern UML Diagram" width="100%">
