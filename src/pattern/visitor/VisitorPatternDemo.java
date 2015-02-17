@@ -5,5 +5,6 @@ public class VisitorPatternDemo {
 
     ComputerPart computer = new Computer();
     computer.accept(new ComputerPartDisplayVisitor());
+    computer.accept(new ComputerPartNotDisplayVisitor());
   }
 }
