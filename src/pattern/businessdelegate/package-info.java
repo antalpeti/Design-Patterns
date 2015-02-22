@@ -6,6 +6,7 @@
  * basically use to reduce communication or remote lookup functionality to business tier code in
  * presentation tier code. In business tier we have following entities.
  * </p>
+ *
  * <ul>
  * <li><b>Client</b> - Presentation tier code may be JSP, servlet or UI java code.</li>
  * <li><b>Business Delegate</b> - A single entry point class for client entities to provide access
