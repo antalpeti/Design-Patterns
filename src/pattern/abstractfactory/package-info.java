@@ -31,7 +31,15 @@
  * type of object it needs.
  * </p>
  *
- * <img src="./abstractfactory_pattern_uml_diagram.jpg" alt="Abstract Factory Pattern UML Diagram"
- * width="100%">
+ * <p>
+ * <img src="./abstractfactory_pattern_uml_diagram.jpg"
+ * alt="Abstract Factory Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./abstractfactory_pattern_uml_diagram.gif"
+ * alt="Abstract Factory Pattern Actual UML Diagram" width="100%">
+ * </p>
+ *
  */
 package pattern.abstractfactory;
