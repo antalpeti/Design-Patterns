@@ -9,8 +9,8 @@ public class Dispatcher {
     homeView = new HomeView();
   }
 
-  public void dispatch(String request) {
-    if (request.equalsIgnoreCase("STUDENT")) {
+  public void dispatch(RequestType request) {
+    if (request == RequestType.HOME) {
       studentView.show();
     } else {
       homeView.show();

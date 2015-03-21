@@ -13,11 +13,11 @@ public class FrontController {
     return true;
   }
 
-  private void trackRequest(String request) {
+  private void trackRequest(RequestType request) {
     System.out.println("Page requested: " + request);
   }
 
-  public void dispatchRequest(String request) {
+  public void dispatchRequest(RequestType request) {
     // log each request
     trackRequest(request);
 
