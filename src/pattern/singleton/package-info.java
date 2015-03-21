@@ -31,7 +31,8 @@
  * </p>
  *
  * <p>
- * <img src="./class-diagram.png" alt="Singleton Pattern Actual UML Diagram" width="100%">
+ * <img src="./singleton_pattern_uml_diagram.gif" alt="Singleton Pattern Actual UML Diagram"
+ * width="100%">
  * </p>
  */
 package pattern.singleton;
