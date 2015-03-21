@@ -25,6 +25,13 @@
  * <i>SingleObject</i> object.
  * </p>
  *
- * <img src="./singleton_pattern_uml_diagram.jpg" alt="Singleton Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./singleton_pattern_uml_diagram.jpg" alt="Singleton Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./class-diagram.png" alt="Singleton Pattern Actual UML Diagram" width="100%">
+ * </p>
  */
 package pattern.singleton;
