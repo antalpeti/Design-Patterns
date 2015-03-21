@@ -42,8 +42,13 @@
  * </p>
  *
  * <p>
- * <img src="./frontcontroller_pattern_uml_diagram.jpg" alt="Front Controller Pattern UML Diagram"
- * width="100%">
+ * <img src="./frontcontroller_pattern_uml_diagram.jpg"
+ * alt="Front Controller Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./frontcontroller_pattern_uml_diagram.gif"
+ * alt="Front Controller Pattern Actual UML Diagram" width="100%">
  * </p>
  */
 package pattern.frontcontroller;
