@@ -54,7 +54,12 @@
  *
  * <p>
  * <img src="./interceptingfilter_pattern_uml_diagram.jpg"
- * alt="Intercepting Filter Pattern UML Diagram" width="100%">
+ * alt="Intercepting Filter Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./interceptingfilter_pattern_uml_diagram.gif"
+ * alt="Intercepting Filter Pattern Actual UML Diagram" width="100%">
  * </p>
  */
 package pattern.interceptingfilter;
