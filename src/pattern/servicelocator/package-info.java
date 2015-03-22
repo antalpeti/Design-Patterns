@@ -55,8 +55,13 @@
  * </p>
  *
  * <p>
- * <img src="./servicelocator_pattern_uml_diagram.jpg" alt="Service Locator Pattern UML Diagram"
- * width="100%">
+ * <img src="./servicelocator_pattern_uml_diagram.jpg"
+ * alt="Service Locator Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./servicelocator_pattern_uml_diagram.gif"
+ * alt="Service Locator Pattern Actual UML Diagram" width="100%">
  * </p>
  */
 package pattern.servicelocator;
