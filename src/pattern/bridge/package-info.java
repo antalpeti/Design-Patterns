@@ -28,6 +28,13 @@
  * will use <i>Shape</i> class to draw different colored circle.
  * </p>
  *
- * <img src="./bridge_pattern_uml_diagram.jpg" alt="Bridge Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./bridge_pattern_uml_diagram.jpg" alt="Bridge Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./bridge_pattern_uml_diagram.gif" alt="Bridge Pattern Actual UML Diagram" width="100%">
+ * </p>
  */
 package pattern.bridge;
