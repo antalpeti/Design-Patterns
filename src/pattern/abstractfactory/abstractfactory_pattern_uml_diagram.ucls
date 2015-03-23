@@ -75,7 +75,7 @@
   </class>  
   <class id="9" language="java" name="pattern.abstractfactory.ShapeFactory" project="Design-Patterns" 
     file="/Design-Patterns/src/pattern/abstractfactory/ShapeFactory.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="218" y="345"/>    
+    <position height="-1" width="-1" x="217" y="342"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -84,7 +84,7 @@
   </class>  
   <class id="10" language="java" name="pattern.abstractfactory.ColorFactory" project="Design-Patterns" 
     file="/Design-Patterns/src/pattern/abstractfactory/ColorFactory.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="722" y="344"/>    
+    <position height="-1" width="-1" x="721" y="344"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -102,7 +102,7 @@
   </class>  
   <class id="12" language="java" name="pattern.abstractfactory.FactoryProducer" project="Design-Patterns" 
     file="/Design-Patterns/src/pattern/abstractfactory/FactoryProducer.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="411" y="532"/>    
+    <position height="-1" width="-1" x="407" y="524"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -112,7 +112,7 @@
   <class id="13" language="java" name="pattern.abstractfactory.AbstractFactoryPatternDemo" project="Design-Patterns" 
     file="/Design-Patterns/src/pattern/abstractfactory/AbstractFactoryPatternDemo.java" binary="false" 
     corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="719" y="528"/>    
+    <position height="-1" width="-1" x="721" y="524"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
