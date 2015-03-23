@@ -44,6 +44,14 @@
  * our demo class will use <i>AudioPlayer</i> class to play various formats.
  * </p>
  *
- * <img src="./adapter_pattern_uml_diagram.jpg" alt="Adapter Pattern UML Diagram.jpg" width="100%">
+ * <p>
+ * <img src="./adapter_pattern_uml_diagram.jpg" alt="Adapter Pattern Original UML Diagram.jpg"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./adapter_pattern_uml_diagram.gif" alt="Adapter Pattern Actual UML Diagram.jpg"
+ * width="100%">
+ * </p>
  */
 package pattern.adapter;
