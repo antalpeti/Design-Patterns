@@ -33,6 +33,14 @@
  * <i>BuilderPatternDemo</i>, our demo class will use <i>MealBuilder</i> to build a <i>Meal</i>.
  * </p>
  *
- * <img src="./builder_pattern_uml_diagram.jpg" alt="Builder Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./builder_pattern_uml_diagram.jpg" alt="Builder Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./builder_pattern_uml_diagram.gif" alt="Builder Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.builder;
