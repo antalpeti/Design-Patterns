@@ -23,6 +23,15 @@
  * class to demonstrate command pattern.
  * </p>
  *
- * <img src="./command_pattern_uml_diagram.jpg" alt="Command Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./command_pattern_uml_diagram.jpg" alt="Command Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./command_pattern_uml_diagram.gif" alt="Command Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
+ *
  */
 package pattern.command;
