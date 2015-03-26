@@ -30,7 +30,14 @@
  * <i>Client</i> to demonstrate use of Business Delegate pattern.
  * </p>
  *
+ * <p>
  * <img src="./business_delegate_pattern_uml_diagram.jpg"
- * alt="Business Delegate Pattern UML Diagram" width="100%">
+ * alt="Business Delegate Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./business_delegate_pattern_uml_diagram.gif"
+ * alt="Business Delegate Pattern Actual UML Diagram" width="100%">
+ * </p>
  */
 package pattern.businessdelegate;
