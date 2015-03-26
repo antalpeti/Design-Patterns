@@ -26,6 +26,14 @@
  * level hierarchy and print all employees.
  * </p>
  *
- * <img src="./composite_pattern_uml_diagram.jpg" alt="Composite Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./composite_pattern_uml_diagram.jpg" alt="Composite Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./composite_pattern_uml_diagram.gif" alt="Composite Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.composite;
