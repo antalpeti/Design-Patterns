@@ -21,6 +21,12 @@
  * its next logger.
  * </p>
  *
- * <img src="./chain_pattern_uml_diagram.jpg" alt="Chain Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./chain_pattern_uml_diagram.jpg" alt="Chain Pattern Original UML Diagram" width="100%">
+ * </P>
+ *
+ * <p>
+ * <img src="./chain_pattern_uml_diagram.gif" alt="Chain Pattern Actual UML Diagram" width="100%">
+ * </P>
  */
 package pattern.chainofresponsibility;
