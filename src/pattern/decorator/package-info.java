@@ -34,6 +34,15 @@
  * <i>Shape</i> objects.
  * </p>
  *
- * <img src="./decorator_pattern_uml_diagram.jpg" alt="Decorator Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./decorator_pattern_uml_diagram.jpg" alt="Decorator Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./decorator_pattern_uml_diagram.gif" alt="Decorator Pattern UML Actual Diagram"
+ * width="100%">
+ * </p>
+ *
  */
 package pattern.decorator;
