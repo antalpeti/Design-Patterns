@@ -27,7 +27,14 @@
  * of Composite Entity pattern.
  * </p>
  *
- * <img src="./compositeentity_pattern_uml_diagram.jpg" alt="Composite Entity Pattern UML Diagram"
- * width="100%">
+ * <p>
+ * <img src="./compositeentity_pattern_uml_diagram.jpg"
+ * alt="Composite Entity Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./compositeentity_pattern_uml_diagram.gif"
+ * alt="Composite Entity Pattern Actual UML Diagram" width="100%">
+ * </p>
  */
 package pattern.compositeentity;
