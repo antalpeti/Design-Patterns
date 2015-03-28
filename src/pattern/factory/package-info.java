@@ -24,6 +24,14 @@
  * get the type of object it needs.
  * </p>
  *
- * <img src="./factory_pattern_uml_diagram.jpg" alt="Factory Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./factory_pattern_uml_diagram.jpg" alt="Factory Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./factory_pattern_uml_diagram.gif" alt="Factory Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.factory;
