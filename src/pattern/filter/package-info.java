@@ -17,6 +17,13 @@
  * various criteria and their combinations.
  * </p>
  *
- * <img src="./filter_pattern_uml_diagram.jpg" alt="Filter Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./filter_pattern_uml_diagram.jpg" alt="Filter Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./filter_pattern_uml_diagram.gif" alt="Filter Pattern Actual UML Diagram" width="100%">
+ * </p>
  */
 package pattern.filter;
