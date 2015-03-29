@@ -36,6 +36,14 @@
  * <i>ShapeFactory</i> to get the circle of desired color it needs.
  * </p>
  *
- * <img src="./flyweight_pattern_uml_diagram.jpg" alt="Flyweight Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./flyweight_pattern_uml_diagram.jpg" alt="Flyweight Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./flyweight_pattern_uml_diagram.gif" alt="Flyweight Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.flyweight;
