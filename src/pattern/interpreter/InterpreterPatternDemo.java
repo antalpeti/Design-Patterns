@@ -19,8 +19,8 @@ public class InterpreterPatternDemo {
   // Rule: Emma is a single woman
   public static Expression getSingleWomanExpression() {
     Expression emma = new TerminalExpression("Emma");
-    Expression married = new TerminalExpression("Single");
-    return new AndExpression(emma, married);
+    Expression single = new TerminalExpression("Single");
+    return new AndExpression(emma, single);
   }
 
   public static void main(String[] args) {

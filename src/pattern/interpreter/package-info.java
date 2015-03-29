@@ -22,7 +22,14 @@
  * and demonstrate parsing of expressions.
  * </p>
  *
- * <img src="./interpreter_pattern_uml_diagram.jpg" alt="Interpreter Pattern UML Diagram"
+ * <p>
+ * <img src="./interpreter_pattern_uml_diagram.jpg" alt="Interpreter Pattern Original UML Diagram"
  * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./interpreter_pattern_uml_diagram.gif" alt="Interpreter Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.interpreter;
