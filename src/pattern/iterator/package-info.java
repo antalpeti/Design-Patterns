@@ -24,6 +24,14 @@
  * implementation to print a <i>Names</i> stored as a collection in <i>NamesRepository</i>.
  * </p>
  *
- * <img src="./iterator_pattern_uml_diagram.jpg" alt="Iterator Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./iterator_pattern_uml_diagram.jpg" alt="Iterator Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./iterator_pattern_uml_diagram.gif" alt="Iterator Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.iterator;
