@@ -22,6 +22,14 @@
  * between them.
  * </p>
  *
- * <img src="./mediator_pattern_uml_diagram.jpg" alt="Mediator Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./mediator_pattern_uml_diagram.jpg" alt="Mediator Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./mediator_pattern_uml_diagram.gif" alt="Mediator Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.mediator;
