@@ -1,5 +1,5 @@
 /**
- * <h1>Design Patterns - Momento Pattern</h1>
+ * <h1>Design Patterns - Memento Pattern</h1>
  *
  * <p>
  * Memento pattern is used to restore state of an object to a previous state. Memento pattern falls
@@ -20,6 +20,14 @@
  * objects to show restoration of object states.
  * </p>
  *
- * <img src="./memento_pattern_uml_diagram.jpg" alt="Memento Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./memento_pattern_uml_diagram.jpg" alt="Memento Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./memento_pattern_uml_diagram.gif" alt="Memento Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.momento;
