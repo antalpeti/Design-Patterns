@@ -30,4 +30,4 @@
  * width="100%">
  * </p>
  */
-package pattern.momento;
+package pattern.memento;

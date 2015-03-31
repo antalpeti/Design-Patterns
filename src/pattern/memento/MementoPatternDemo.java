@@ -1,4 +1,4 @@
-package pattern.momento;
+package pattern.memento;
 
 public class MementoPatternDemo {
   public static void main(String[] args) {

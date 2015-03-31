@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true">  
-  <class id="1" language="java" name="pattern.momento.Memento" project="Design-Patterns" 
-    file="/Design-Patterns/src/pattern/momento/Memento.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="1" language="java" name="pattern.memento.Memento" project="Design-Patterns" 
+    file="/Design-Patterns/src/pattern/memento/Memento.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="482" y="319"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -10,8 +10,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="pattern.momento.Originator" project="Design-Patterns" 
-    file="/Design-Patterns/src/pattern/momento/Originator.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="2" language="java" name="pattern.memento.Originator" project="Design-Patterns" 
+    file="/Design-Patterns/src/pattern/memento/Originator.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="179" y="319"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -19,8 +19,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="pattern.momento.CareTaker" project="Design-Patterns" 
-    file="/Design-Patterns/src/pattern/momento/CareTaker.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="3" language="java" name="pattern.memento.CareTaker" project="Design-Patterns" 
+    file="/Design-Patterns/src/pattern/memento/CareTaker.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="483" y="108"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -28,8 +28,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="pattern.momento.MementoPatternDemo" project="Design-Patterns" 
-    file="/Design-Patterns/src/pattern/momento/MementoPatternDemo.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="4" language="java" name="pattern.memento.MementoPatternDemo" project="Design-Patterns" 
+    file="/Design-Patterns/src/pattern/memento/MementoPatternDemo.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="179" y="107"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      

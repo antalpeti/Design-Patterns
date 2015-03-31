@@ -1,4 +1,4 @@
-package pattern.momento;
+package pattern.memento;
 
 import java.util.ArrayList;
 import java.util.List;
