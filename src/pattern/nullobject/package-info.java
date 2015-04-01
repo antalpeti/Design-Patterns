@@ -27,6 +27,12 @@
  * Null Object pattern.
  * </p>
  *
- * <img src="./null_pattern_uml_diagram.jpg" alt="Null Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./null_pattern_uml_diagram.jpg" alt="Null Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./null_pattern_uml_diagram.gif" alt="Null Pattern Actual UML Diagram" width="100%">
+ * </p>
  */
 package pattern.nullobject;
