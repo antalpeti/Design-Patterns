@@ -27,6 +27,12 @@
  * MVC pattern.
  * </p>
  *
- * <img src="./mvc_pattern_uml_diagram.jpg" alt="MVC Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./mvc_pattern_uml_diagram.jpg" alt="MVC Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./mvc_pattern_uml_diagram.gif" alt="MVC Pattern Actual UML Diagram" width="100%">
+ * </p>
  */
 package pattern.mvc;
