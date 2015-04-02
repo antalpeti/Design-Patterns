@@ -21,6 +21,14 @@
  * show observer pattern in action.
  * </p>
  *
- * <img src="./observer_pattern_uml_diagram.jpg" alt="Observer Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./observer_pattern_uml_diagram.jpg" alt="Observer Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./observer_pattern_uml_diagram.gif" alt="Observer Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.observer;
