@@ -33,6 +33,15 @@ public class PrototypePatternDemo {
     System.out.println(SHAPE + clonedShape6.getType());
     System.out.println(SHAPE + clonedShape6.getId());
 
+    System.out.println("\nCloned objects changed Ids:");
+    System.out.println(SHAPE + clonedShape.getType());
+    System.out.println(SHAPE + clonedShape.getId());
+    System.out.println(SHAPE + clonedShape2.getType());
+    System.out.println(SHAPE + clonedShape2.getId());
+    System.out.println(SHAPE + clonedShape3.getType());
+    System.out.println(SHAPE + clonedShape3.getId());
+
+    System.out.println("\nOrdinals of the types:");
     System.out.println(ShapeType.CIRCLE + ORDINAL + ShapeType.CIRCLE.ordinal());
     System.out.println(ShapeType.SQUARE + ORDINAL + ShapeType.SQUARE.ordinal());
     System.out.println(ShapeType.RECTANGLE + ORDINAL + ShapeType.RECTANGLE.ordinal());
