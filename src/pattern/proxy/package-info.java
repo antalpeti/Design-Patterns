@@ -24,6 +24,13 @@
  * to load and display as it needs.
  * </p>
  *
- * <img src="./proxy_pattern_uml_diagram.jpg" alt="Proxy Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./proxy_pattern_uml_diagram.jpg" alt="Proxy Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./proxy_pattern_uml_diagram.gif" alt="Proxy Pattern Actual UML Diagram" width="100%">
+ * </p>
+ *
  */
 package pattern.proxy;
