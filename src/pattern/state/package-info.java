@@ -23,6 +23,12 @@
  * change in Context behavior based on type of state it is in.
  * </p>
  *
- * <img src="./state_pattern_uml_diagram.jpg" alt="State Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./state_pattern_uml_diagram.jpg" alt="State Pattern Original UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./state_pattern_uml_diagram.gif" alt="State Pattern Actual UML Diagram" width="100%">
+ * </p>
  */
 package pattern.state;
