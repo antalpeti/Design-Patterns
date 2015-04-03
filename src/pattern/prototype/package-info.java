@@ -27,7 +27,15 @@
  * object.
  * </p>
  *
- * <img src="./prototype_pattern_uml_diagram.jpg" alt="Prototype Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./prototype_pattern_uml_diagram.jpg" alt="Prototype Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./prototype_pattern_uml_diagram.gif" alt="Prototype Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.prototype;
 
