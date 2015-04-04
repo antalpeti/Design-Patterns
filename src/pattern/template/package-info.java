@@ -20,6 +20,14 @@
  * pattern.
  * </p>
  *
- * <img src="./template_pattern_uml_diagram.jpg" alt="Template Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./template_pattern_uml_diagram.jpg" alt="Template Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./template_pattern_uml_diagram.gif" alt="Template Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.template;
