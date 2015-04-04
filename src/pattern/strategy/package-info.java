@@ -25,6 +25,14 @@
  * demonstrate change in Context behaviour based on strategy it deploys or uses.
  * </p>
  *
- * <img src="./strategy_pattern_uml_diagram.jpg" alt="Strategy Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./strategy_pattern_uml_diagram.jpg" alt="Strategy Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./strategy_pattern_uml_diagram.gif" alt="Strategy Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.strategy;
