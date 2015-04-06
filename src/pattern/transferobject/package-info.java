@@ -42,8 +42,13 @@
  * </p>
  *
  * <p>
- * <img src="./transferobject_pattern_uml_diagram.jpg" alt="Transfer Object Pattern UML Diagram"
- * width="100%">
+ * <img src="./transferobject_pattern_uml_diagram.jpg"
+ * alt="Transfer Object Original Pattern UML Diagram" width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./transferobject_pattern_uml_diagram.gif"
+ * alt="Transfer Object Actual Pattern UML Diagram" width="100%">
  * </p>
  */
 package pattern.transferobject;
