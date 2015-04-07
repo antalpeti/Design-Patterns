@@ -23,6 +23,14 @@
  * <i>ComputerPartVisitor</i> classes to demonstrate use of visitor pattern.
  * </p>
  *
- * <img src="./visitor_pattern_uml_diagram.jpg" alt="Visitor Pattern UML Diagram" width="100%">
+ * <p>
+ * <img src="./visitor_pattern_uml_diagram.jpg" alt="Visitor Pattern Original UML Diagram"
+ * width="100%">
+ * </p>
+ *
+ * <p>
+ * <img src="./visitor_pattern_uml_diagram.gif" alt="Visitor Pattern Actual UML Diagram"
+ * width="100%">
+ * </p>
  */
 package pattern.visitor;
